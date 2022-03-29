@@ -3,8 +3,8 @@
     "static/js/0.d58282cc.chunk.js": "/static/js/0.d58282cc.chunk.js",
     "static/js/0.d58282cc.chunk.js.map": "/static/js/0.d58282cc.chunk.js.map",
     "main.css": "/static/css/main.bd5d875b.chunk.css",
-    "main.js": "/static/js/main.9ccf5835.chunk.js",
-    "main.js.map": "/static/js/main.9ccf5835.chunk.js.map",
+    "main.js": "/static/js/main.f5ea05ad.chunk.js",
+    "main.js.map": "/static/js/main.f5ea05ad.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.28e30626.js",
     "runtime-main.js.map": "/static/js/runtime-main.28e30626.js.map",
     "static/css/3.1fbdc5f3.chunk.css": "/static/css/3.1fbdc5f3.chunk.css",
@@ -29,7 +29,7 @@
     "static/js/4.21175c32.chunk.js.LICENSE.txt": "/static/js/4.21175c32.chunk.js.LICENSE.txt",
     "static/js/5.17e675a6.chunk.js.LICENSE.txt": "/static/js/5.17e675a6.chunk.js.LICENSE.txt",
     "static/js/6.24f53a97.chunk.js.LICENSE.txt": "/static/js/6.24f53a97.chunk.js.LICENSE.txt",
-    "static/media/DFI_Logo_2.5bcd63b5.svg": "/static/media/DFI_Logo_2.5bcd63b5.svg",
+    "static/media/DFI_Logo_2.00ccbb5d.svg": "/static/media/DFI_Logo_2.00ccbb5d.svg",
     "static/media/index.css": "/static/media/roboto-latin-900italic.cb5ad999.woff2",
     "static/media/back-arrow.40f3eea1.svg": "/static/media/back-arrow.40f3eea1.svg",
     "static/media/bch-icon-grey.96fe0acc.svg": "/static/media/bch-icon-grey.96fe0acc.svg",
@@ -94,6 +94,6 @@
     "static/css/3.1fbdc5f3.chunk.css",
     "static/js/3.65ddcdbc.chunk.js",
     "static/css/main.bd5d875b.chunk.css",
-    "static/js/main.9ccf5835.chunk.js"
+    "static/js/main.f5ea05ad.chunk.js"
   ]
 }
