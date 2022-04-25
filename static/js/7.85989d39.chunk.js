@@ -1,0 +1,2 @@
+(this["webpackJsonpdefichain-bridge"]=this["webpackJsonpdefichain-bridge"]||[]).push([[7],{1885:function(n,i){},1887:function(n,i){},1915:function(n,i){},1942:function(n,i){},1948:function(n,i){},1962:function(n,i){},1977:function(n,i){},1983:function(n,i){},1992:function(n,i){},2006:function(n,i){},2034:function(n,i){}}]);
+//# sourceMappingURL=7.85989d39.chunk.js.map
