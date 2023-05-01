@@ -1,19 +1,14 @@
 {
-  "short_name": "Ren Bridge 2.0",
-  "name": "Ren Bridge 2.0",
+  "short_name": "Layer2.Finance App",
+  "start_url": ".",
+  "name": "Layer2.Finance App",
   "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
-    },
-    {
-      "src": "favicon-256x256.png",
-      "type": "image/png",
-      "sizes": "256"
     }
   ],
-  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
