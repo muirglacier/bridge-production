@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.9a340547.chunk.css",
-    "main.js": "./static/js/main.60eb0801.chunk.js",
-    "main.js.map": "./static/js/main.60eb0801.chunk.js.map",
+    "main.css": "./static/css/main.cad4f255.chunk.css",
+    "main.js": "./static/js/main.bab16832.chunk.js",
+    "main.js.map": "./static/js/main.bab16832.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.1661a806.js",
     "runtime-main.js.map": "./static/js/runtime-main.1661a806.js.map",
     "static/js/2.6731c9c1.chunk.js": "./static/js/2.6731c9c1.chunk.js",
     "static/js/2.6731c9c1.chunk.js.map": "./static/js/2.6731c9c1.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.9a340547.chunk.css.map": "./static/css/main.9a340547.chunk.css.map",
+    "static/css/main.cad4f255.chunk.css.map": "./static/css/main.cad4f255.chunk.css.map",
     "static/js/2.6731c9c1.chunk.js.LICENSE.txt": "./static/js/2.6731c9c1.chunk.js.LICENSE.txt",
     "static/media/arrTop.svg": "./static/media/arrTop.ff7b1801.svg",
     "static/media/arrTopLight.svg": "./static/media/arrTopLight.a51381aa.svg",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.1661a806.js",
     "static/js/2.6731c9c1.chunk.js",
-    "static/css/main.9a340547.chunk.css",
-    "static/js/main.60eb0801.chunk.js"
+    "static/css/main.cad4f255.chunk.css",
+    "static/js/main.bab16832.chunk.js"
   ]
 }
